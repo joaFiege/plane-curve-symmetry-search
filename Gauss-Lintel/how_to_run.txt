@@ -1,0 +1,12 @@
+Wie startet man Prolog?
+
+PS C:\Users\karst> cd .\Desktop\BA-env\Gauss-Lintel\
+PS C:\Users\karst\Desktop\BA-env\Gauss-Lintel> swipl .\gauss-lint.pl
+
+
+Für festes N gebe im Terminal folgendes ein, um die Lintels mit n=N/2 Schnittpunkten zu erzeugen:
+
+lintel_generate(N,[1, ... , N/2]) % Hier natürlich entsprechende Liste eingeben
+lintel(N,L)
+
+und dann ';' nach jeder Zeile, um die einzelnen lintels L anzeigen zu lassen
