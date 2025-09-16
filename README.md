@@ -31,5 +31,4 @@ For a full account and complete bibliography, please refer to my bachelor thesis
 *Symmetries and Invariants of Plane Curves: An Algorithmic Search for Obstructions*.
 
 ## Citation
-If you use this code, please cite the Zenodo release of this repository  
-*(DOI to be added after Zenodo publication)* and the references above.
+If you use this code, please cite the Zenodo release of this repository [![DOI](https://zenodo.org/badge/1057697473.svg)](https://doi.org/10.5281/zenodo.17129349) and the references above.
