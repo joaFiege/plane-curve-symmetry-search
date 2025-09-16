@@ -1,6 +1,14 @@
 from __future__ import annotations
 from typing import Dict, Any, List, Callable, Iterable, Set, Dict, Sequence, Tuple
 
+"""
+Code is a translated version from the GAP provided in Appendix A, see
+
+Michael Chmutov, Thomas Hulse, Andrew Lum, and Peter Rowell. “Plane
+and spherical curves: an investigation of their invariants”. In: Proceedings
+of the research experiences for undergraduates program in mathematics,
+Oregon State University (2006), pp. 1–92.
+"""
 
 
 def _positions(G: Sequence[Letter], a: int) -> Tuple[int, int]:
